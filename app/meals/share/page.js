@@ -1,0 +1,1 @@
+export default function ShareMealPage() { return <h2>Share Meal</h2> }
